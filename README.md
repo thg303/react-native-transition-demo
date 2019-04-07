@@ -9,3 +9,5 @@ Clone this repo and run on iOS
 or Android  
 > `$ npm install`  
 > `$ react-native run-android`
+
+or maybe prefer [a live experience?](https://snack.expo.io/@thg303/react-native-transition-demo)
